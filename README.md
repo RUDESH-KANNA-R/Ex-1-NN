@@ -1,8 +1,8 @@
-ENTER YOUR NAME : RUDESH KANNA R
-ENTER YOUR REGISTER  NO. : 212223233002
-EX. NO.1
-DATE
-Introduction to Kaggle and Data preprocessing
+## NAME : RUDESH KANNA R
+## REGISTER  NO. : 212223233002
+## EX. NO.1
+## DATE :
+### Introduction to Kaggle and Data preprocessing
 
 ## AIM:
 
